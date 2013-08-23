@@ -2,8 +2,6 @@ package com.gmail.lifeofreilly.pageobjects;
 
 import org.apache.log4j.Logger;
 
-import java.util.concurrent.TimeUnit;
-
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
